@@ -36,7 +36,6 @@ public class Url {
        int prince2 = words.split("Prince").length - 1;
        int prince3 = prince1 + prince2;
        System.out.println(prince3);
-
     }
 
 }
